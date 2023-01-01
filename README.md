@@ -91,10 +91,13 @@
 <div>
 <div><img src="https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" /> </div> 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true&layout=compact" align="right" /></div>
+  
 </div>
 <br/>  
 <div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=drowning-in-codes&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=drowning-in-codes" /> </div>
+
 
 <br/>  
 
