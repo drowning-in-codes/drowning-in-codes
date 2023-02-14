@@ -25,13 +25,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 14 Contributions in the Year 2023
  > 
-> 📦 177.5 kB Used in GitHub's Storage 
+> 📦 177.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,7 +56,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2023 14:16:29 UTC
+ Last Updated on 14/02/2023 18:44:29 UTC
 <!--END_SECTION:waka-->
 
 ## My Skill Set  
