@@ -22,6 +22,8 @@
 <div><img src="https://metrics.lecoq.io/drowning-in-codes?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" /></div>
 <br/>  
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
