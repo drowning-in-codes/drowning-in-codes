@@ -23,6 +23,40 @@
 <br/>  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 14 Contributions in the Year 2023
+ > 
+> 📦 177.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in HTML** 
+
+```text
+HTML                     4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+Vue                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/charts/bar_graph.png) 
+
+
+ Last Updated on 14/02/2023 14:16:29 UTC
 <!--END_SECTION:waka-->
 
 ## My Skill Set  
