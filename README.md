@@ -39,6 +39,48 @@
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning        7 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.92 % 
+🌆 Daytime        8 commits       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+🌃 Evening       21 commits       ██████████████░░░░░░░░░░░   56.76 % 
+🌙 Night          1 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday           4 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Tuesday         11 commits       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+Wednesday        5 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Thursday         5 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Friday           2 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Saturday         6 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Sunday           4 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -56,7 +98,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2023 18:44:29 UTC
+ Last Updated on 15/02/2023 18:45:31 UTC
 <!--END_SECTION:waka-->
 
 ## My Skill Set  
