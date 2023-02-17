@@ -23,7 +23,7 @@
 <br/>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
@@ -68,16 +68,17 @@ Sunday           4 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     2 hrs 45 mins       █████████████████████████   99.89 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+front_end                2 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 45 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -98,7 +99,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2023 18:44:04 UTC
+ Last Updated on 17/02/2023 18:43:03 UTC
 <!--END_SECTION:waka-->
 
 ## My Skill Set  
