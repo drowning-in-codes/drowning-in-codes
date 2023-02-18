@@ -99,7 +99,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2023 18:43:03 UTC
+ Last Updated on 18/02/2023 18:40:52 UTC
 <!--END_SECTION:waka-->
 
 ## My Skill Set  
