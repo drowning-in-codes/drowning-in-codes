@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
 **🐱 My GitHub Data** 
 
@@ -104,7 +104,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2023 04:55:06 UTC
+ Last Updated on 23/02/2023 18:43:47 UTC
 <!--END_SECTION:waka-->
 
 ## My Skill Set  
