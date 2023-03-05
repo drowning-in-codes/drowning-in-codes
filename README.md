@@ -23,6 +23,7 @@
 <br/>  
 
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
