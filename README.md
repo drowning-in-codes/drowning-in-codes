@@ -25,9 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 February 2023 - To: 15 June 2023
+From: 13 February 2023 - To: 16 June 2023
 
-Total Time: 198 hrs 42 mins
+Total Time: 198 hrs 43 mins
 
 Python           93 hrs 19 mins  >>>>>>>>>>>>-------------   46.96 %
 Jupyter          65 hrs          >>>>>>>>-----------------   32.71 %
