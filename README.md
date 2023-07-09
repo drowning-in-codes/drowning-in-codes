@@ -1,6 +1,6 @@
-<div align="center">
-![Header](./your-header-image-name.png)
-</div>  
+
+![Header](./github-header-image.png)
+
   
 
 ### <div align="center">Hi there👋. I'm @drowning-in-codes, a student from China.</div>  
