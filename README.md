@@ -20,8 +20,11 @@
 </div>
 
 <div><img src="https://metrics.lecoq.io/drowning-in-codes?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" /></div>
-<br/>  
+<br/> 
 
+<div >
+<img src="./ayanami.png"/>
+</div>
 <!--START_SECTION:waka-->
 
 ```text
@@ -42,8 +45,6 @@ Other            2 hrs 49 mins   -------------------------   01.21 %
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
