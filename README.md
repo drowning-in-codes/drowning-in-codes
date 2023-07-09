@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+![Header](./your-header-image-name.png)
 </div>  
   
 
@@ -105,15 +105,12 @@ Other            2 hrs 49 mins   -------------------------   01.21 %
 
 
 ## Github Stats  
-<div>
-<div><img src="https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" /> </div> 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true&layout=compact" align="right" /></div>
-  
-</div>
-<br/>  
-<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=drowning-in-codes&theme=xcode" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes" /> </div>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=drowning-in-codes" /> </div>
+
+<div><img src="https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  /> </div> 
+<div ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true&layout=compact"  /></div>
+
+<div > <img src="https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes" /> </div>
+<div > <img src="https://github-profile-trophy.vercel.app/?username=drowning-in-codes" /> </div>
 
 
 <br/>  
@@ -128,7 +125,6 @@ Other            2 hrs 49 mins   -------------------------   01.21 %
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=drowning-in-codes&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
@@ -139,7 +135,7 @@ Other            2 hrs 49 mins   -------------------------   01.21 %
                     align="center"
                 />
             </a></div>
+
+      
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
