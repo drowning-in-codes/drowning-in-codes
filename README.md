@@ -1,7 +1,6 @@
 
 ![Header](./github-header-image.png)
 
-  
 
 ### <div align="center">Hi there👋. I'm @drowning-in-codes, a student from China.</div>  
   
@@ -107,14 +106,19 @@ Other            2 hrs 49 mins   -------------------------   01.21 %
 
 ## Github Stats  
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  /> </div> 
-<div ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true&layout=compact"  /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  /> </div> 
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true&layout=compact"  />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes" /> 
+</div>
 
-<div > <img src="https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes" /> </div>
-<div > <img src="https://github-profile-trophy.vercel.app/?username=drowning-in-codes" /> </div>
+<br/>
 
-
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=drowning-in-codes" /> </div>
 <br/>  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drowning-in-codes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Spotify Listening  
   
