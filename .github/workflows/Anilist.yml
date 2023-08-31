@@ -17,6 +17,7 @@ jobs:
           filename: metrics.plugin.anilist.svg
           token: NOT_NEEDED
           base: ""
+          plugin_anilist_user: "proanimer"
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching, characters
