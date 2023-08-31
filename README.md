@@ -27,6 +27,8 @@
 </div>
 <picture><img src="./metrics.plugin.anilist.svg"/></picture>
 
+[![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -46,8 +48,8 @@ Other            5 hrs 2 mins    -------------------------   01.35 %
 
 <!--END_SECTION:waka-->
 
-<div ><img src="./metrics.plugin.calendar.svg"/></div>
-<div ><img src="./metrics.plugin.habits.facts.svg"/></div>
+![Calender](./metrics.plugin.calendar.svg)
+![habits](././metrics.plugin.habits.facts.svg)
 
 
 ## My Skill Set  
@@ -103,26 +105,15 @@ Other            5 hrs 2 mins    -------------------------   01.35 %
   
 
 ## Github Stats  
-<div align="center">
-<picture><img align="left" src="https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  /> </picture> 
-<picture>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes" /> 
-</picture>
-</div>
-<br/> 
 
-<div>
-  <picture>
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true&layout=compact"  />
-</picture>
-<picture > <img align="right" src="https://github-profile-trophy.vercel.app/?username=drowning-in-codes" /> </picture>
-  </div>
+![proanimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+![proanimer's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes)
+<br/>
+![proanimer's top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true)
+![proanimer's profile-trophy](https://github-profile-trophy.vercel.app/?username=drowning-in-codes)
 <br/>  
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drowning-in-codes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![proanimer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drowning-in-codes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/> 
- 
-<br/>  
 
 ## Connect with me  
 <div align="center">
