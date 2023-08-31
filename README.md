@@ -15,15 +15,18 @@
 <div>
   <a href="http://sekyoro.top"><img src="https://img.shields.io/badge/Blog-sekyoro.top-brightgreen" /></a>
   <a href="http://www.proanimer.com"><img src="https://img.shields.io/badge/website-proanimer.com-blue" /></a>
-  <div> <img src="https://stats.justsong.cn/api//website/?url=http://www.sekyoro.top/&style=flat&logo=Hexo"> </div>
+  <div> <img src="https://stats.justsong.cn/api//website/?url=http://www.sekyoro.top/&style=flat&logo=Hexo"> <img src="https://komarev.com/ghpvc/?username=drowning-in-codes&&style=flat-square"  /></div>
+
 </div>
 
-<div><img src="https://metrics.lecoq.io/drowning-in-codes?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" /></div>
+<div><img src="./github-metrics.svg"/></div>
 <br/> 
 
-<div >
+<div>
 <img src="./ayanami.png"/>
 </div>
+<picture><img src="./metrics.plugin.anilist.svg"/></picture>
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -42,6 +45,10 @@ Other            5 hrs 2 mins    -------------------------   01.35 %
 ```
 
 <!--END_SECTION:waka-->
+
+<div ><img src="./metrics.plugin.calendar.svg"/></div>
+<div ><img src="./metrics.plugin.habits.facts.svg"/></div>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -87,9 +94,35 @@ Other            5 hrs 2 mins    -------------------------   01.35 %
 </div>
 
 </td></tr></table>  
+<br/>  
+<div>
+<picture>
+  <img src="./metrics.plugin.contributors.contributions.svg"/>
+</picture>
+</div>
+  
 
+## Github Stats  
+<div align="center">
+<picture><img align="left" src="https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  /> </picture> 
+<picture>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes" /> 
+</picture>
+</div>
+<br/> 
+
+<div>
+  <picture>
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true&layout=compact"  />
+</picture>
+<picture > <img align="right" src="https://github-profile-trophy.vercel.app/?username=drowning-in-codes" /> </picture>
+  </div>
 <br/>  
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drowning-in-codes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/> 
+ 
+<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -100,40 +133,6 @@ Other            5 hrs 2 mins    -------------------------   01.35 %
 <img src=https://img.shields.io/badge/Gmail-%2324292e.svg?&style=for-the-badge&logo=Gmail&logoColor=white&color=red alt=Gmail style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  /> </div> 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true&layout=compact"  />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes" /> 
-</div>
-
-<br/>
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=drowning-in-codes" /> </div>
-<br/>  
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drowning-in-codes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-## Spotify Listening  
-  
-<br/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=i5xl3kzlvei96gtnf2ukn0yuu&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div> 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=drowning-in-codes&&style=flat-square" align="center" />
-</div>  
-
-<br/>  
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/drowning-in-codes" target="_blank" style="display: inline-block;">
                 <img
@@ -141,7 +140,5 @@ Other            5 hrs 2 mins    -------------------------   01.35 %
                     align="center"
                 />
             </a></div>
-
-      
 <br />
 
