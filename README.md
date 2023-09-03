@@ -22,9 +22,7 @@
 <div><img src="./github-metrics.svg"/></div>
 <br/> 
 
-<div>
-<img src="./ayanami.png"/>
-</div>
+<picture><img src="./ayanami.png"/></picture>
 <picture><img src="./metrics.plugin.anilist.svg"/></picture>
 
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
