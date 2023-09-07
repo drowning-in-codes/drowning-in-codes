@@ -13,12 +13,12 @@ jobs:
       contents: write
     steps:
       - name: Default metrics
-        uses: drowning-in-codes/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
       - name: Contributors with contributions count
-        uses: drowning-in-codes/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.contributors.contributions.svg
@@ -28,14 +28,14 @@ jobs:
           plugin_contributors: yes
           plugin_contributors_contributions: yes
       - name: Current year calendar
-        uses: drowning-in-codes/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
       - name: Mildly interesting facts
-        uses: drowning-in-codes/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -45,7 +45,7 @@ jobs:
           plugin_habits_charts: no
           config_timezone: Asia/Shanghai
       - name: Favorites characters
-        uses: drowning-in-codes/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.anilist.svg
           token: NOT_NEEDED
