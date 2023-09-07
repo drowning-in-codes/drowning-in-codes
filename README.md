@@ -15,11 +15,11 @@
 <div>
   <a href="http://sekyoro.top"><img src="https://img.shields.io/badge/Blog-sekyoro.top-brightgreen" /></a>
   <a href="http://www.proanimer.com"><img src="https://img.shields.io/badge/website-proanimer.com-blue" /></a>
-  <div> <img src="https://stats.justsong.cn/api//website/?url=http://www.sekyoro.top/&style=flat&logo=Hexo"> <img src="https://komarev.com/ghpvc/?username=drowning-in-codes&&style=flat-square"  /></div>
+  <pciture> <img src="https://stats.justsong.cn/api//website/?url=http://www.sekyoro.top/&style=flat&logo=Hexo"> <img src="https://komarev.com/ghpvc/?username=drowning-in-codes&&style=flat-square"  /></pciture>
 
 </div>
 
-<div><img src="./github-metrics.svg"/></div>
+<pciture><img src="./github-metrics.svg"/></pciture>
 <br/> 
 
 <picture><img src="./ayanami.png"/></picture>
