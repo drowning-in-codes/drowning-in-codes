@@ -12,6 +12,49 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: drowning-in-codes/metrics@master
+      - name: Default metrics
+        uses: drowning-in-codes/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+      - name: Contributors with contributions count
+        uses: drowning-in-codes/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.contributors.contributions.svg
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_contributors: yes
+          plugin_contributors_contributions: yes
+      - name: Current year calendar
+        uses: drowning-in-codes/metrics@master
+        with:
+          filename: metrics.plugin.calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+      - name: Mildly interesting facts
+        uses: drowning-in-codes/metrics@master
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Asia/Shanghai
+      - name: Favorites characters
+        uses: drowning-in-codes/metrics@master
+        with:
+          filename: metrics.plugin.anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist_user: "proanimer"
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching, characters
+          plugin_anilist_limit: 5
+       
+
+       
