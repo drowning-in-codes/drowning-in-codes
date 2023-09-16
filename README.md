@@ -105,7 +105,12 @@ C                2 hrs 41 mins   -------------------------   00.63 %
   
 
 ## Github Stats  
-
+<picture>
+  <img src="./metrics.plugin.stars.svg"/>
+</picture>
+<picture>
+  <img src="./metrics.plugin.topics.icons.svg"/>
+</picture>
 ![proanimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 ![proanimer's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes)
 <br/>
