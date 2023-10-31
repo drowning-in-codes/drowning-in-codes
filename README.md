@@ -30,20 +30,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2023 - To: 28 October 2023
+From: 13 February 2023 - To: 29 October 2023
 
-Total Time: 488 hrs 21 mins
+Total Time: 492 hrs 59 mins
 
-Python           133 hrs         >>>>>>>------------------   27.24 %
-JavaScript       127 hrs 48 mins >>>>>>>------------------   26.17 %
-C++              97 hrs 2 mins   >>>>>--------------------   19.87 %
-Jupyter          65 hrs 5 mins   >>>----------------------   13.33 %
-HTML             13 hrs 27 mins  >------------------------   02.75 %
-JSON             9 hrs 49 mins   >------------------------   02.01 %
-CMake            7 hrs 37 mins   -------------------------   01.56 %
-CSS              5 hrs 22 mins   -------------------------   01.10 %
-Other            5 hrs 4 mins    -------------------------   01.04 %
-Markdown         4 hrs 31 mins   -------------------------   00.93 %
+Python           137 hrs 19 mins >>>>>>>------------------   27.86 %
+JavaScript       127 hrs 48 mins >>>>>>-------------------   25.93 %
+C++              97 hrs 2 mins   >>>>>--------------------   19.68 %
+Jupyter          65 hrs 5 mins   >>>----------------------   13.20 %
+HTML             13 hrs 27 mins  >------------------------   02.73 %
+JSON             9 hrs 49 mins   -------------------------   01.99 %
+CMake            7 hrs 37 mins   -------------------------   01.55 %
+CSS              5 hrs 22 mins   -------------------------   01.09 %
+Other            5 hrs 4 mins    -------------------------   01.03 %
+Markdown         4 hrs 44 mins   -------------------------   00.96 %
 ```
 
 <!--END_SECTION:waka-->
