@@ -17,7 +17,7 @@
 | Master       |  |
 | Advanced      | Python |
 | Intermediate         | Javascript/Typescript, Java   |
-| Basic         | C++,Go,C#   |
+| Basic         | C++,Go,C#,Dart   |
 | willing to learn         | Kotlin,Rust   |
 <div>
   <a href="http://sekyoro.top"><img src="https://img.shields.io/badge/Blog-sekyoro.top-brightgreen" /></a>
