@@ -10,8 +10,15 @@
 
 - 🌱 I’m currently learning Web, Java, Flutter, Electron  
   
+- ⚡ I love Anime
 
-- ⚡ I love Anime  
+ | Proficiency | Programming Language |
+|--------------|------|
+| Master       |  |
+| Advanced      | Python |
+| Intermediate         | Javascript/Typescript, Java   |
+| Basic         | C++,Go,C#   |
+| willing to learn         | Kotlin,Rust   |
 <div>
   <a href="http://sekyoro.top"><img src="https://img.shields.io/badge/Blog-sekyoro.top-brightgreen" /></a>
   <a href="http://www.proanimer.com"><img src="https://img.shields.io/badge/website-proanimer.com-blue" /></a>
