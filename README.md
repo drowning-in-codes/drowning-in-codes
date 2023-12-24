@@ -122,6 +122,7 @@ Markdown         4 hrs 54 mins   -------------------------   00.81 %
 [![proanimer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drowning-in-codes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/> 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i5xl3kzlvei96gtnf2ukn0yuu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/drowning-in-codes" target="_blank">
