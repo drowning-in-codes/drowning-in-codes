@@ -5,10 +5,11 @@
 ### <div align="center">Hi there👋. I'm @drowning-in-codes, a student from China.</div>  
   
 
-- 🔭 I’m currently working on Web, Java, Python, App development  
+- 🔭 I’m currently working on AI and Web development.  
   
+- 🌱 I’m currently learning Web, Java, Go, and many other interesting stuff.
 
-- 🌱 I’m currently learning Web, Java, Flutter, Electron  
+- 😎 AIGC and AGI.  
   
 - ⚡ I love Anime
 
