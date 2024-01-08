@@ -5,11 +5,11 @@
 ### <div align="center">Hi there👋. I'm @drowning-in-codes, a student from China.</div>  
   
 
-- 🔭 I’m currently working on AI and Web development.  
+- 😃 I’m currently working on AI and Web development.  
   
-- 🌱 I’m currently learning Web, Java, Go, and many other interesting stuff.
+- 🙌 I’m currently learning Web, Go, ECMAScript/TypeScript, and many other fun stuff.
 
-- 😎 AIGC and AGI.  
+- ✨ AIGC and AGI.  
   
 - ⚡ I love Anime
   
@@ -19,8 +19,8 @@
 |--------------|------|
 | Master       |  |
 | Advanced      | Python |
-| Intermediate         | Javascript/Typescript, Java   |
-| Basic         | C++,Go,C#,Dart   |
+| Intermediate         | Javascript/Typescript, Go,Java   |
+| Basic         | C#,Dart,C++   |
 | willing to learn         | Kotlin,Rust   |
 <div>
   <a href="http://sekyoro.top"><img src="https://img.shields.io/badge/Blog-sekyoro.top-brightgreen" /></a>
