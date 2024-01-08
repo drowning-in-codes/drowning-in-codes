@@ -12,6 +12,8 @@
 - 😎 AIGC and AGI.  
   
 - ⚡ I love Anime
+  
+![:name](https://count.getloli.com/get/@:proanimer.github.readme)
 
  | Proficiency | Programming Language |
 |--------------|------|
