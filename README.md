@@ -38,13 +38,13 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 840.7 kB Used in GitHub's Storage 
+> 📦 840.8 kB Used in GitHub's Storage 
  > 
 > 🏆 169 Contributions in the Year 2024
  > 
@@ -81,21 +81,21 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 43 mins       ███████████████████░░░░░░   77.35 % 
-YAML                     52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-BibTeX                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-TeX                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Python                   2 hrs 34 mins       █████████████████████████   99.92 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 36 mins       ████████████████████████░   95.51 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+PyCharm                  2 hrs 34 mins       █████████████████████████   99.93 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-OpenCOOD                 4 hrs 36 mins       ████████████████████████░   95.51 % 
-论文                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+OpenCOOD                 2 hrs 34 mins       █████████████████████████   99.93 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 34 mins       █████████████████████████   99.96 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +115,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2024 11:16:07 UTC
+ Last Updated on 23/04/2024 11:15:52 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
