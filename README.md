@@ -38,13 +38,13 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 841.1 kB Used in GitHub's Storage 
+> 📦 842.1 kB Used in GitHub's Storage 
  > 
 > 🏆 169 Contributions in the Year 2024
  > 
@@ -81,20 +81,23 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 40 mins       █████████████████████████   98.86 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   9 hrs 58 mins       ████████████████████████░   96.77 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 46 mins       █████████████████████████   99.98 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+PyCharm                  10 hrs 4 mins       ████████████████████████░   97.72 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🐱‍💻 Projects: 
-OpenCOOD                 8 hrs 46 mins       █████████████████████████   99.98 % 
+OpenCOOD                 10 hrs 4 mins       ████████████████████████░   97.72 % 
+my-app                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  8 hrs 46 mins       █████████████████████████   99.99 % 
+Windows                  10 hrs 18 mins      █████████████████████████   99.99 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
@@ -115,7 +118,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2024 11:15:15 UTC
+ Last Updated on 27/04/2024 11:13:49 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
