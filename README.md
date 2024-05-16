@@ -3,15 +3,22 @@
 
 
 ### <div align="center">Hi there👋. I'm @drowning-in-codes, a student from China.</div>  
-  
 
-- 😃 I’m currently working on AI and Web development.  
-  
-- 🙌 I’m currently learning Web, Go, ECMAScript/TypeScript, and many other fun stuff.
+🏫 Research-wise, I mainly focus on:
+- **Generative AI** and **LLM**.
+- **Collaborative Perception** with Autonomous Driving.
+- Stuff related to Deep Learning.
 
-- ✨ AIGC and AGI.  
-  
-- ⚡ I love Anime
+💻 Develop-wise, I mainly focus on: 
+- **Web** development.  
+- **Desktop and Mobile Application**.
+- Cross-platform Application.
+
+👐 I'm open to:
+- any opportunities to collaborate.
+- internships.
+
+✨ AGI and simulate the world, plus I like anime.  
   
 ![:name](https://count.getloli.com/get/@:proanimer.github.readme)
 
@@ -26,7 +33,6 @@
   <a href="http://sekyoro.top"><img src="https://img.shields.io/badge/Blog-sekyoro.top-brightgreen" /></a>
   <a href="http://www.proanimer.com"><img src="https://img.shields.io/badge/website-proanimer.com-blue" /></a>
   <pciture> <img src="https://stats.justsong.cn/api//website/?url=http://www.sekyoro.top/&style=flat&logo=Hexo"> <img src="https://komarev.com/ghpvc/?username=drowning-in-codes&&style=flat-square"  /></pciture>
-
 </div>
 
 <pciture><img src="./github-metrics.svg"/></pciture>
