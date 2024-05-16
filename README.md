@@ -7,7 +7,7 @@
 🏫 Research-wise, I mainly focus on:
 - **Generative AI** and **LLM**.
 - **Collaborative Perception** with Autonomous Driving.
-- Stuff related to Deep Learning.
+- Fun Stuff related to Deep Learning.
 
 💻 Develop-wise, I mainly focus on: 
 - **Web** development.  
