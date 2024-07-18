@@ -28,7 +28,7 @@
 | Advanced      | Python |
 | Intermediate         | Javascript/Typescript, Go, Java   |
 | Basic         | C#, Dart, C/C++, Kotlin  |
-| willing to learn         | Rust   |
+| willing to learn         | Rust, Zig   |
 <div>
   <a href="http://sekyoro.top"><img src="https://img.shields.io/badge/Blog-sekyoro.top-brightgreen" /></a>
   <a href="http://www.proanimer.com"><img src="https://img.shields.io/badge/website-proanimer.com-blue" /></a>
