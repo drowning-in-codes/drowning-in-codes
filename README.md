@@ -44,13 +44,13 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 950.2 kB Used in GitHub's Storage 
+> 📦 954.9 kB Used in GitHub's Storage 
  > 
 > 🏆 206 Contributions in the Year 2024
  > 
@@ -87,22 +87,21 @@ Sunday                   202 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.84 % 
-CMake                    2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   41.55 % 
-Rust                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-edgy                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C++                      4 hrs 58 mins       █████████████████░░░░░░░░   67.19 % 
+CMake                    1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Rust                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+neo-tree                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 31 mins       █████████████████████████   99.95 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Neovim                   7 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-build-my-own-x           6 hrs 30 mins       █████████████████████████   99.74 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+build-my-own-x           7 hrs 22 mins       █████████████████████████   99.85 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  6 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +121,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2024 11:18:19 UTC
+ Last Updated on 10/09/2024 11:18:34 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
