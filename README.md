@@ -44,13 +44,13 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C615%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C618%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 955.0 kB Used in GitHub's Storage 
+> 📦 956.3 kB Used in GitHub's Storage 
  > 
 > 🏆 206 Contributions in the Year 2024
  > 
@@ -87,21 +87,21 @@ Sunday                   202 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 23 mins       ████████████████████░░░░░   81.77 % 
-CMake                    1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Rust                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-neo-tree                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+C++                      9 hrs 20 mins       ████████████████░░░░░░░░░   64.26 % 
+CMake                    3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+JSON                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Rust                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 15 mins      █████████████████████████   100.00 % 
+Neovim                   14 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-build-my-own-x           10 hrs 14 mins      █████████████████████████   99.89 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+build-my-own-x           10 hrs 33 mins      ██████████████████░░░░░░░   72.57 % 
+Unknown Project          3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
 
 💻 Operating System: 
-Windows                  10 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +121,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2024 11:20:04 UTC
+ Last Updated on 12/09/2024 11:18:57 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
