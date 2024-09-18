@@ -18,6 +18,7 @@
 - any opportunities to collaborate.
 - internships.
 
+🍙 I write 
 ✨ AGI and simulate the world, plus I like anime.  
   
 ![:name](https://count.getloli.com/get/@:proanimer.github.readme)
@@ -26,8 +27,8 @@
 |--------------|------|
 | Master       |  |
 | Advanced      | Python |
-| Intermediate         | Javascript/Typescript, Go, Java   |
-| Basic         | C#, Dart, C/C++, Kotlin, Rust  |
+| Intermediate         | Javascript/Typescript, Go, Java, C/C++   |
+| Basic         | C#, Dart, Kotlin, Rust  |
 | willing to learn         |  Zig  |
 <div>
   <a href="http://sekyoro.top"><img src="https://img.shields.io/badge/Blog-sekyoro.top-brightgreen" /></a>
