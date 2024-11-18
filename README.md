@@ -45,13 +45,13 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C887%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 958.7 kB Used in GitHub's Storage 
+> 📦 958.9 kB Used in GitHub's Storage 
  > 
 > 🏆 221 Contributions in the Year 2024
  > 
@@ -88,23 +88,22 @@ Sunday                   208 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SCSS                     10 hrs 5 mins       ███████████░░░░░░░░░░░░░░   45.35 % 
-Python                   9 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.28 % 
-HTML                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Python                   11 hrs 39 mins      ██████████████░░░░░░░░░░░   56.77 % 
+SCSS                     7 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
+HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 26 mins      ██████████████░░░░░░░░░░░   55.88 % 
-PyCharm                  9 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.12 % 
+PyCharm                  11 hrs 50 mins      ██████████████░░░░░░░░░░░   57.68 % 
+VS Code                  8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.32 % 
 
 🐱‍💻 Projects: 
-advanced-css-course      12 hrs 26 mins      ██████████████░░░░░░░░░░░   55.88 % 
-OpenCOOD                 6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-classicNets              3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+advanced-css-course      8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.32 % 
+OpenCOOD                 8 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.67 % 
+classicNets              3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +123,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2024 11:19:13 UTC
+ Last Updated on 18/11/2024 11:19:59 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
