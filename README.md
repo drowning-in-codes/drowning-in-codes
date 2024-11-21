@@ -45,13 +45,13 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C894%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C898%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 960.4 kB Used in GitHub's Storage 
+> 📦 960.5 kB Used in GitHub's Storage 
  > 
 > 🏆 221 Contributions in the Year 2024
  > 
@@ -88,18 +88,18 @@ Sunday                   208 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs 5 mins       █████████████████████████   98.92 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Python                   18 hrs 18 mins      █████████████████████████   98.99 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-PyCharm                  17 hrs 16 mins      █████████████████████████   100.00 % 
+PyCharm                  18 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-classicNets              8 hrs 52 mins       █████████████░░░░░░░░░░░░   51.33 % 
-OpenCOOD                 8 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.67 % 
+classicNets              10 hrs 5 mins       ██████████████░░░░░░░░░░░   54.53 % 
+OpenCOOD                 8 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.47 % 
 
 💻 Operating System: 
-Windows                  17 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +119,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2024 11:19:01 UTC
+ Last Updated on 21/11/2024 11:19:43 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
