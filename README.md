@@ -45,13 +45,11 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C904%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 960.8 kB Used in GitHub's Storage 
+> 📦 960.2 kB Used in GitHub's Storage 
  > 
 > 🏆 221 Contributions in the Year 2024
  > 
@@ -88,22 +86,18 @@ Sunday                   208 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 1 min         ██████████████████████░░░   87.82 % 
-C++                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   2 hrs 1 min         █████████████████████████   99.82 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 1 min         ██████████████████████░░░   87.97 % 
-Neovim                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+PyCharm                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OpenCOOD                 1 hr 46 mins        ███████████████████░░░░░░   77.22 % 
-build-my-own-x           16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-classicNets              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+OpenCOOD                 1 hr 46 mins        ██████████████████████░░░   87.74 % 
+classicNets              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +117,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 11:18:43 UTC
+ Last Updated on 01/12/2024 11:19:15 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
