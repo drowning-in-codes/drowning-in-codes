@@ -51,7 +51,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 960.3 kB Used in GitHub's Storage 
+> 📦 960.4 kB Used in GitHub's Storage 
  > 
 > 🏆 221 Contributions in the Year 2024
  > 
@@ -119,7 +119,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2024 11:20:01 UTC
+ Last Updated on 03/12/2024 11:20:03 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
