@@ -45,13 +45,13 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C961%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C962%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 962.1 kB Used in GitHub's Storage 
+> 📦 962.2 kB Used in GitHub's Storage 
  > 
 > 🏆 222 Contributions in the Year 2024
  > 
@@ -88,23 +88,23 @@ Sunday                   208 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 hrs 50 mins      ██████████████░░░░░░░░░░░   54.15 % 
-C++                      13 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   33.81 % 
-YAML                     3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Other                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-CMake                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Python                   24 hrs 42 mins      ███████████████░░░░░░░░░░   59.59 % 
+C++                      12 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+YAML                     3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Other                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-PyCharm                  24 hrs 14 mins      ████████████████░░░░░░░░░   62.95 % 
-VS Code                  14 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   37.05 % 
+PyCharm                  28 hrs 6 mins       █████████████████░░░░░░░░   67.81 % 
+VS Code                  13 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.19 % 
 
 🐱‍💻 Projects: 
-OpenCOOD                 24 hrs 14 mins      ████████████████░░░░░░░░░   62.95 % 
-gl_learn                 14 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   37.04 % 
+OpenCOOD                 28 hrs 6 mins       █████████████████░░░░░░░░   67.81 % 
+gl_learn                 13 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.18 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  38 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +124,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 11:18:17 UTC
+ Last Updated on 21/12/2024 11:17:13 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
