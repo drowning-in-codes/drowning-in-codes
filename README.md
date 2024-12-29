@@ -2,7 +2,7 @@
 ![Header](./github-header-image.png)
 
 
-### <div align="center">Hi there👋. I'm @drowning-in-codes, a student from China.</div>  
+### <div align="center">Hi there👋. I'm @drowning-in-codes, focusing on building and exploring AI and FullStack development.</div>  
 
 🏫 Research-wise, I mainly focus on:
 - **Generative AI** and **LLM**.
