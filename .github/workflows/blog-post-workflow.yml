@@ -16,4 +16,4 @@ jobs:
       - name: Pull in my blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.sekyoro.top/sitemap.xml"
+          feed_list: "https://www.sekyoro.top/atom.xml"
