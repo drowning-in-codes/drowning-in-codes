@@ -34,7 +34,19 @@
   <a href="http://sekyoro.top"><img src="https://img.shields.io/badge/Blog-sekyoro.top-brightgreen" /></a>
   <a href="http://www.proanimer.com"><img src="https://img.shields.io/badge/website-proanimer.com-blue" /></a>
   <pciture> <img src="https://stats.justsong.cn/api//website/?url=http://www.sekyoro.top/&style=flat&logo=Hexo"> <img src="https://komarev.com/ghpvc/?username=drowning-in-codes&&style=flat-square"  /></pciture>
+  
+  [![proanimer'X](https://img.shields.io/badge/proanimer'X-%23000000.svg?logo=X&logoColor=white)](https://x.com/proanimer)
+  [![proanimer'Hugging Face](https://img.shields.io/badge/proanimer'Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/proanimer)
 </div>
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [learn opengl&lpar;3&rpar;](https://www.sekyoro.top/2025/01/26/learn-opengl-3/)
+- [入门vscode插件开发](https://www.sekyoro.top/2025/01/20/%E5%85%A5%E9%97%A8vscode%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/)
+- [使用Lua给neovim写插件](https://www.sekyoro.top/2025/01/18/%E7%BB%99neovim%E5%86%99%E6%8F%92%E4%BB%B6/)
+- [协同感知算法&lpar;四&rpar;:大模型、多模态以及新趋势](https://www.sekyoro.top/2025/01/10/%E5%8D%8F%E5%90%8C%E6%84%9F%E7%9F%A5%E7%AE%97%E6%B3%95-%E5%9B%9B-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E3%80%81%E5%A4%9A%E6%A8%A1%E6%80%81%E4%BB%A5%E5%8F%8A%E6%96%B0%E8%B6%8B%E5%8A%BF/)
+- [学习桌面开发先进经验,从WPF看起](https://www.sekyoro.top/2025/01/10/%E5%AD%A6%E4%B9%A0%E6%A1%8C%E9%9D%A2%E5%BC%80%E5%8F%91%E5%85%88%E8%BF%9B%E7%BB%8F%E9%AA%8C%EF%BC%8C%E4%BB%8EWPF%E7%9C%8B%E8%B5%B7/)
+<!-- BLOG-POST-LIST:END -->
 
 <pciture><img src="./github-metrics.svg"/></pciture>
 <br/> 
@@ -163,8 +175,6 @@ Go                       1 repo              █░░░░░░░░░░�
 </div>
 </td><td valign="top" width="33%">
 
-
-
 ### Mobile  
 <div align="center">  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a> 
@@ -178,7 +188,6 @@ Go                       1 repo              █░░░░░░░░░░�
 <picture>
   <img src="./metrics.plugin.contributors.contributions.svg"/>
 </picture>
-
 ## Github Stats  
 <picture>
   <img src="./metrics.plugin.stars.svg"/>
@@ -199,27 +208,31 @@ Go                       1 repo              █░░░░░░░░░░�
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i5xl3kzlvei96gtnf2ukn0yuu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=i5xl3kzlvei96gtnf2ukn0yuu&redirect=true)
 
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [learn opengl&lpar;3&rpar;](https://www.sekyoro.top/2025/01/26/learn-opengl-3/)
-- [入门vscode插件开发](https://www.sekyoro.top/2025/01/20/%E5%85%A5%E9%97%A8vscode%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/)
-- [使用Lua给neovim写插件](https://www.sekyoro.top/2025/01/18/%E7%BB%99neovim%E5%86%99%E6%8F%92%E4%BB%B6/)
-- [协同感知算法&lpar;四&rpar;:大模型、多模态以及新趋势](https://www.sekyoro.top/2025/01/10/%E5%8D%8F%E5%90%8C%E6%84%9F%E7%9F%A5%E7%AE%97%E6%B3%95-%E5%9B%9B-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E3%80%81%E5%A4%9A%E6%A8%A1%E6%80%81%E4%BB%A5%E5%8F%8A%E6%96%B0%E8%B6%8B%E5%8A%BF/)
-- [学习桌面开发先进经验,从WPF看起](https://www.sekyoro.top/2025/01/10/%E5%AD%A6%E4%B9%A0%E6%A1%8C%E9%9D%A2%E5%BC%80%E5%8F%91%E5%85%88%E8%BF%9B%E7%BB%8F%E9%AA%8C%EF%BC%8C%E4%BB%8EWPF%E7%9C%8B%E8%B5%B7/)
-<!-- BLOG-POST-LIST:END -->
-
-
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/drowning-in-codes" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
- <a href="mailto:bukalala174@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-%2324292e.svg?&style=for-the-badge&logo=Gmail&logoColor=white&color=red alt=Gmail style="margin-bottom: 5px;" />
+<div align="left">
+<a href="mailto:bukalala174@gmail.com" style="text-decoration:none" target="_blank">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://sekyoro.top/" style="text-decoration:none" target="_blank">
+  <img height="30" src = "https://img.shields.io/badge/blog-00d2ff?&style=for-the-badge&logo=hexo&logoColor=white">
 </a>
   
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/proanimer)
-  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/proanimer)
+<a href="https://proanimer.com/" style="text-decoration:none" target="_blank">
+  <img height="30" src = "https://img.shields.io/badge/website-D3959B?&style=for-the-badge&logo=wordpress&logoColor=white">
+</a>
+  
+<a href="https://www.linkedin.com/in/proanimer" style="text-decoration:none" target="_blank">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  
+<a href="https://github.com/drowning-in-codes" style="text-decoration:none" target="_blank">
+  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+  
+<a href="https://x.com/proanimer" style="text-decoration:none" target="_blank">
+  <img height="30" src = "https://img.shields.io/badge/Twitter-000.svg?&style=for-the-badge&logo=X&logoColor=white">
+</a>
 </div>  
 <div align="center">
   <a href="https://www.buymeacoffee.com/bukalala172" target="_blank" style="display: inline-block;">
