@@ -42,7 +42,7 @@
 <picture><img src="./ayanami.png"/></picture>
 <picture><img src="./metrics.plugin.anilist.svg"/></picture>
 
-[![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C168%20hrs%2052%20mins-blue)
