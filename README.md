@@ -42,7 +42,7 @@
 <picture><img src="./ayanami.png"/></picture>
 <picture><img src="./metrics.plugin.anilist.svg"/></picture>
 
-[![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/drowning-in-codes/drowning-in-codes)
+[![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer&range=last_7_days)](https://github.com/drowning-in-codes/drowning-in-codes)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C168%20hrs%2052%20mins-blue)
@@ -196,7 +196,8 @@ Go                       1 repo              █░░░░░░░░░░�
 [![proanimer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drowning-in-codes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/> 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i5xl3kzlvei96gtnf2ukn0yuu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i5xl3kzlvei96gtnf2ukn0yuu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=i5xl3kzlvei96gtnf2ukn0yuu&redirect=true)
+
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
