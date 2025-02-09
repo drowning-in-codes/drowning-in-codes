@@ -42,7 +42,7 @@
 <picture><img src="./ayanami.png"/></picture>
 <picture><img src="./metrics.plugin.anilist.svg"/></picture>
 
-![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)
+[![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer)](https://github.com/drowning-in-codes/drowning-in-codes)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C168%20hrs%2052%20mins-blue)
@@ -196,7 +196,13 @@ Go                       1 repo              █░░░░░░░░░░�
 [![proanimer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drowning-in-codes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/> 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i5xl3kzlvei96gtnf2ukn0yuu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i5xl3kzlvei96gtnf2ukn0yuu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/drowning-in-codes" target="_blank">
@@ -204,13 +210,15 @@ Go                       1 repo              █░░░░░░░░░░�
 </a>  
  <a href="mailto:bukalala174@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-%2324292e.svg?&style=for-the-badge&logo=Gmail&logoColor=white&color=red alt=Gmail style="margin-bottom: 5px;" />
-</a>  
+</a>
+  
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/proanimer)
+  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/proanimer)
 </div>  
 <div align="center">
-            <a href="https://www.buymeacoffee.com/bukalala172" target="_blank" style="display: inline-block;">
-                <img       src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+  <a href="https://www.buymeacoffee.com/bukalala172" target="_blank" style="display: inline-block;">
+       <img  src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
+      </a>
+</div>
 <br />
 
