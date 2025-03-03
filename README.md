@@ -57,7 +57,7 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer&range=last_7_days)](https://github.com/drowning-in-codes/drowning-in-codes)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C212%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C214%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -100,18 +100,19 @@ Sunday                   228 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   25 hrs 28 mins      █████████████████████████   99.81 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   29 hrs 7 mins       █████████████████████████   99.83 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mini_sd_trainer          25 hrs 31 mins      █████████████████████████   100.00 % 
+mini_sd_trainer          29 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +132,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2025 11:18:16 UTC
+ Last Updated on 03/03/2025 11:19:47 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
