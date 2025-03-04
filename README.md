@@ -57,7 +57,7 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer&range=last_7_days)](https://github.com/drowning-in-codes/drowning-in-codes)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C214%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C218%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -100,19 +100,19 @@ Sunday                   228 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   29 hrs 7 mins       █████████████████████████   99.83 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   25 hrs 2 mins       █████████████████████████   99.80 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mini_sd_trainer          29 hrs 10 mins      █████████████████████████   100.00 % 
+mini_sd_trainer          25 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  29 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +132,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2025 11:19:47 UTC
+ Last Updated on 04/03/2025 11:19:15 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
