@@ -57,7 +57,7 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer&range=last_7_days)](https://github.com/drowning-in-codes/drowning-in-codes)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C221%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C222%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -65,7 +65,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2025
+> 🏆 23 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -100,19 +100,19 @@ Sunday                   228 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 hrs 40 mins      █████████████████████████   99.76 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   22 hrs 27 mins      █████████████████████████   99.78 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mini_sd_trainer          20 hrs 43 mins      █████████████████████████   100.00 % 
+mini_sd_trainer          22 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +132,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2025 11:19:42 UTC
+ Last Updated on 06/03/2025 11:19:25 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
