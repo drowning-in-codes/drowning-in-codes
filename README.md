@@ -41,11 +41,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [如何训练一个图像LoRA:从源代码看起](https://www.sekyoro.top/2025/03/02/%E5%A6%82%E4%BD%95%E8%AE%AD%E7%BB%83%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%83%8FLoRA-%E4%BB%8E%E6%BA%90%E4%BB%A3%E7%A0%81%E7%9C%8B%E8%B5%B7/)
+- [Linux网络编程入门](https://www.sekyoro.top/2025/02/27/Linux%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/)
 - [learn opengl&lpar;3&rpar;](https://www.sekyoro.top/2025/01/26/learn-opengl-3/)
 - [入门vscode插件开发](https://www.sekyoro.top/2025/01/20/%E5%85%A5%E9%97%A8vscode%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/)
 - [使用Lua给neovim写插件](https://www.sekyoro.top/2025/01/18/%E7%BB%99neovim%E5%86%99%E6%8F%92%E4%BB%B6/)
-- [协同感知算法&lpar;四&rpar;:大模型、多模态以及新趋势](https://www.sekyoro.top/2025/01/10/%E5%8D%8F%E5%90%8C%E6%84%9F%E7%9F%A5%E7%AE%97%E6%B3%95-%E5%9B%9B-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E3%80%81%E5%A4%9A%E6%A8%A1%E6%80%81%E4%BB%A5%E5%8F%8A%E6%96%B0%E8%B6%8B%E5%8A%BF/)
-- [学习桌面开发先进经验,从WPF看起](https://www.sekyoro.top/2025/01/10/%E5%AD%A6%E4%B9%A0%E6%A1%8C%E9%9D%A2%E5%BC%80%E5%8F%91%E5%85%88%E8%BF%9B%E7%BB%8F%E9%AA%8C%EF%BC%8C%E4%BB%8EWPF%E7%9C%8B%E8%B5%B7/)
 <!-- BLOG-POST-LIST:END -->
 
 <pciture><img src="./github-metrics.svg"/></pciture>
