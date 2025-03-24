@@ -41,11 +41,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [如何训练一个图像LoRA:从源代码看起](https://www.sekyoro.top/2025/03/02/%E5%A6%82%E4%BD%95%E8%AE%AD%E7%BB%83%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%83%8FLoRA-%E4%BB%8E%E6%BA%90%E4%BB%A3%E7%A0%81%E7%9C%8B%E8%B5%B7/)
+- [TCP/IP与HTTP编程](https://www.sekyoro.top/2025/03/12/TCP-IP%E4%B8%8EHTTP%E7%BC%96%E7%A8%8B/)
+- [mini-java-guide](https://www.sekyoro.top/2025/03/09/mini-java-guide/)
 - [Linux网络编程入门](https://www.sekyoro.top/2025/02/27/Linux%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/)
 - [learn opengl&lpar;3&rpar;](https://www.sekyoro.top/2025/01/26/learn-opengl-3/)
 - [入门vscode插件开发](https://www.sekyoro.top/2025/01/20/%E5%85%A5%E9%97%A8vscode%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/)
-- [使用Lua给neovim写插件](https://www.sekyoro.top/2025/01/18/%E7%BB%99neovim%E5%86%99%E6%8F%92%E4%BB%B6/)
 <!-- BLOG-POST-LIST:END -->
 
 <pciture><img src="./github-metrics.svg"/></pciture>
