@@ -57,7 +57,7 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer&range=last_7_days)](https://github.com/drowning-in-codes/drowning-in-codes)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C558%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C563%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -100,17 +100,17 @@ Sunday                   228 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 34 mins       █████████████████████████   99.26 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Python                   6 hrs 47 mins       ████████████████░░░░░░░░░   63.94 % 
+YAML                     3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.06 % 
 
 🔥 Editors: 
-Pycharm                  6 hrs 37 mins       █████████████████████████   100.00 % 
+Pycharm                  10 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OpenCOOD                 6 hrs 37 mins       █████████████████████████   100.00 % 
+OpenCOOD                 10 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +130,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2025 11:21:43 UTC
+ Last Updated on 18/06/2025 11:21:41 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
