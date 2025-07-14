@@ -41,11 +41,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [coding agent in real world](https://www.sekyoro.top/2025/07/01/coding-agent-in-real-world/)
+- [mysql学习:基于mysql实战45讲](https://www.sekyoro.top/2025/07/01/mysql%E5%AD%A6%E4%B9%A0-%E5%9F%BA%E4%BA%8Emysql%E5%AE%9E%E6%88%9845%E8%AE%B2/)
 - [文件分片上传分析](https://www.sekyoro.top/2025/05/12/%E6%96%87%E4%BB%B6%E5%88%86%E7%89%87%E4%B8%8A%E4%BC%A0%E5%88%86%E6%9E%90/)
 - [Netty初探](https://www.sekyoro.top/2025/05/08/Netty%E5%88%9D%E6%8E%A2/)
 - [TinyWebServer项目学习](https://www.sekyoro.top/2025/03/20/TinyHttpServer%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0/)
-- [Java项目大赏&lpar;实习版&rpar;](https://www.sekyoro.top/2025/03/20/Java%E9%A1%B9%E7%9B%AE%E5%A4%A7%E8%B5%8F-%E5%AE%9E%E4%B9%A0%E7%89%88/)
-- [TCP/IP与HTTP编程](https://www.sekyoro.top/2025/03/12/TCP-IP%E4%B8%8EHTTP%E7%BC%96%E7%A8%8B/)
 <!-- BLOG-POST-LIST:END -->
 
 <pciture><img src="./github-metrics.svg"/></pciture>
