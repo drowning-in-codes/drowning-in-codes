@@ -57,40 +57,40 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer&range=last_7_days)](https://github.com/drowning-in-codes/drowning-in-codes)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C630%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C631%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.0 MB Used in GitHub's Storage 
+> 📦 1.1 MB Used in GitHub's Storage 
  > 
 > 🏆 32 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 44 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-🌆 Daytime                277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-🌃 Evening                1039 commits        ██████████████████░░░░░░░   70.54 % 
-🌙 Night                  48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+🌞 Morning                109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+🌆 Daytime                270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+🌃 Evening                1037 commits        ██████████████████░░░░░░░   70.83 % 
+🌙 Night                  48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Tuesday                  205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Wednesday                190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Thursday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Friday                   203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Saturday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Sunday                   229 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Monday                   179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Tuesday                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Thursday                 258 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Friday                   203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Saturday                 203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Sunday                   228 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 ```
 
 
@@ -131,7 +131,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 11:23:35 UTC
+ Last Updated on 15/07/2025 11:23:36 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
