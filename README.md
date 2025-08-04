@@ -57,9 +57,9 @@
 [![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer&range=last_7_days)](https://github.com/drowning-in-codes/drowning-in-codes)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C666%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C668%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -100,22 +100,18 @@ Sunday                   228 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 hrs 45 mins      █████████████████████████   99.70 % 
+C++                      10 hrs 45 mins      █████████████████████████   99.72 % 
 Typst                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 47 mins      █████████████████████████   99.98 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  10 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode                 9 hrs 52 mins       ███████████████████████░░   91.52 % 
+leetcode                 9 hrs 52 mins       ███████████████████████░░   91.53 % 
 exercise                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 build-my-own-x           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-JavaGen                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-easychat-java            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Windows                  10 hrs 47 mins      █████████████████████████   100.00 % 
@@ -138,7 +134,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2025 11:23:20 UTC
+ Last Updated on 04/08/2025 11:25:07 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
