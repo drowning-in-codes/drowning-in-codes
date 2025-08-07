@@ -141,7 +141,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Calender](./metrics.plugin.calendar.svg)
 ![habits](././metrics.plugin.habits.facts.svg)
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -155,8 +154,8 @@ Go                       1 repo              █░░░░░░░░░░�
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a> 
 </div>
-
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
@@ -178,12 +177,12 @@ Go                       1 repo              █░░░░░░░░░░�
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>    
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
 </div>
-
 </td></tr></table>  
 <br/>  
 <picture>
   <img src="./metrics.plugin.contributors.contributions.svg"/>
 </picture>
+
 ## Github Stats  
 <picture>
   <img src="./metrics.plugin.stars.svg"/>
