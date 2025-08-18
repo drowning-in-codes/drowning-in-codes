@@ -41,11 +41,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [springcloud微服务入门](https://www.sekyoro.top/2025/08/10/springcloud%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%85%A5%E9%97%A8/)
+- [c++刷leetcode注意事项](https://www.sekyoro.top/2025/07/31/c-%E5%88%B7leetcode%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/)
+- [并发、Java与Spring重点概念](https://www.sekyoro.top/2025/07/29/%E5%B9%B6%E5%8F%91%E3%80%81Java%E4%B8%8ESpring%E9%87%8D%E7%82%B9%E6%A6%82%E5%BF%B5/)
 - [rabbit-mq初探](https://www.sekyoro.top/2025/07/21/rabbit-mq%E5%88%9D%E6%8E%A2/)
 - [redis核心技术](https://www.sekyoro.top/2025/07/10/redis%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF/)
-- [coding agent in real world](https://www.sekyoro.top/2025/07/01/coding-agent-in-real-world/)
-- [mysql学习:基于mysql实战45讲](https://www.sekyoro.top/2025/07/01/mysql%E5%AD%A6%E4%B9%A0-%E5%9F%BA%E4%BA%8Emysql%E5%AE%9E%E6%88%9845%E8%AE%B2/)
-- [文件分片上传分析](https://www.sekyoro.top/2025/05/12/%E6%96%87%E4%BB%B6%E5%88%86%E7%89%87%E4%B8%8A%E4%BC%A0%E5%88%86%E6%9E%90/)
 <!-- BLOG-POST-LIST:END -->
 
 <pciture><img src="./github-metrics.svg"/></pciture>
