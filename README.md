@@ -41,11 +41,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [刷题总结篇](https://www.sekyoro.top/2025/08/31/%E5%88%B7%E9%A2%98%E6%80%BB%E7%BB%93%E7%AF%87/)
+- [个人知识库应用整合](https://www.sekyoro.top/2025/08/26/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E5%BA%93%E5%BA%94%E7%94%A8%E6%95%B4%E5%90%88/)
+- [系统设计题目一览](https://www.sekyoro.top/2025/08/14/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A2%98%E7%9B%AE%E4%B8%80%E8%A7%88/)
 - [springcloud微服务入门](https://www.sekyoro.top/2025/08/10/springcloud%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%85%A5%E9%97%A8/)
 - [c++刷leetcode注意事项](https://www.sekyoro.top/2025/07/31/c-%E5%88%B7leetcode%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/)
-- [并发、Java与Spring重点概念](https://www.sekyoro.top/2025/07/29/%E5%B9%B6%E5%8F%91%E3%80%81Java%E4%B8%8ESpring%E9%87%8D%E7%82%B9%E6%A6%82%E5%BF%B5/)
-- [rabbit-mq初探](https://www.sekyoro.top/2025/07/21/rabbit-mq%E5%88%9D%E6%8E%A2/)
-- [redis核心技术](https://www.sekyoro.top/2025/07/10/redis%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF/)
 <!-- BLOG-POST-LIST:END -->
 
 <pciture><img src="./github-metrics.svg"/></pciture>
