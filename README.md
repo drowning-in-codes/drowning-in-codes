@@ -67,6 +67,8 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
+> 🏆 42 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 44 Public Repositories 
@@ -129,7 +131,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 11:19:34 UTC
+ Last Updated on 17/09/2025 11:20:18 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
