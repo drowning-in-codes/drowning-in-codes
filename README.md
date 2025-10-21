@@ -59,7 +59,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C701%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C701%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -102,21 +102,16 @@ Sunday                   231 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 mins             ████████████████░░░░░░░░░   64.65 % 
-Java                     5 mins              █████████░░░░░░░░░░░░░░░░   35.13 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+C++                      10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  10 mins             ████████████████░░░░░░░░░   64.65 % 
-IntelliJ IDEA            5 mins              █████████░░░░░░░░░░░░░░░░   35.35 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise                 10 mins             ████████████████░░░░░░░░░   64.65 % 
-hm-dianping              5 mins              █████████░░░░░░░░░░░░░░░░   34.17 % 
-build-my-own-x           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+exercise                 10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +131,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2025 11:21:42 UTC
+ Last Updated on 21/10/2025 11:21:40 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
