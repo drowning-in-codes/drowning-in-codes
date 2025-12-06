@@ -61,13 +61,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C706%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2025
+> 🏆 50 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -102,19 +102,19 @@ Sunday                   233 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 54 mins        ████████████████████████░   94.20 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+C++                      1 hr 56 mins        ████████████████████████░   94.30 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode                 2 hrs 1 min         █████████████████████████   100.00 % 
+leetcode                 2 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +134,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2025 11:24:53 UTC
+ Last Updated on 06/12/2025 11:20:40 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
