@@ -61,7 +61,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C706%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -102,19 +102,16 @@ Sunday                   233 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 56 mins        ████████████████████████░   94.31 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+C++                      6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode                 2 hrs 3 mins        █████████████████████████   100.00 % 
+leetcode                 6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +131,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2025 11:26:16 UTC
+ Last Updated on 10/12/2025 11:24:19 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
