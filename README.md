@@ -59,9 +59,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C706%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C707%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -102,20 +102,19 @@ Sunday                   233 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 mins             ████████████████░░░░░░░░░   65.24 % 
-Markdown                 5 mins              █████████░░░░░░░░░░░░░░░░   34.76 % 
+C++                      7 mins              ██████████████░░░░░░░░░░░   54.88 % 
+Markdown                 5 mins              ███████████░░░░░░░░░░░░░░   45.12 % 
 
 🔥 Editors: 
-VS Code                  10 mins             ████████████████░░░░░░░░░   65.24 % 
-Neovim                   5 mins              █████████░░░░░░░░░░░░░░░░   34.76 % 
+VS Code                  7 mins              ██████████████░░░░░░░░░░░   54.88 % 
+Neovim                   5 mins              ███████████░░░░░░░░░░░░░░   45.12 % 
 
 🐱‍💻 Projects: 
-exercise                 7 mins              ███████████░░░░░░░░░░░░░░   42.28 % 
-LazyVim                  5 mins              █████████░░░░░░░░░░░░░░░░   34.76 % 
-leetcode                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+exercise                 7 mins              ██████████████░░░░░░░░░░░   54.88 % 
+LazyVim                  5 mins              ███████████░░░░░░░░░░░░░░   45.12 % 
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -135,7 +134,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 11:25:05 UTC
+ Last Updated on 14/12/2025 11:21:54 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
