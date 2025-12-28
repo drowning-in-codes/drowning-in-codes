@@ -39,6 +39,15 @@
   [![proanimer'Hugging Face](https://img.shields.io/badge/proanimer'Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/proanimer)
 </div>
 
+<picture><img src="./ayanami.png"/></picture>
+
+## Github summary
+![proanimer's summary card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drowning-in-codes&theme=default)
+![proanimer's repos' languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drowning-in-codes&theme=default)
+![proanimer's stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=drowning-in-codes&theme=default)
+![proanimer's commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=drowning-in-codes&theme=default&utcOffset=8)
+<img height="180px" src="./metrics.plugin.topics.icons.svg" alt="topics" />
+    
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [操作系统与计算机网络经典](https://www.sekyoro.top/2025/11/10/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%BB%8F%E5%85%B8/)
@@ -48,14 +57,9 @@
 - [个人知识库应用整合](https://www.sekyoro.top/2025/08/26/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E5%BA%93%E5%BA%94%E7%94%A8%E6%95%B4%E5%90%88/)
 <!-- BLOG-POST-LIST:END -->
 
-<pciture><img src="./github-metrics.svg"/></pciture>
-<br/> 
+<img src="./github-metrics.svg"/><img src="./metrics.plugin.anilist.svg"/>
 
-<picture><img src="./ayanami.png"/></picture>
-<picture><img src="./metrics.plugin.anilist.svg"/></picture>
-
-[![proanimer's wakatime stats](https://github-readme-stats-olive-three-31.vercel.app/api/wakatime?username=proanimer&range=last_7_days)](https://github.com/drowning-in-codes/drowning-in-codes)
-
+![proanimer's wakatime stats](https://github-readme-stats-olive-three-31.vercel.app/api/wakatime?username=proanimer&range=last_7_days)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
@@ -134,7 +138,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
-
  Last Updated on 28/12/2025 11:22:58 UTC
 <!--END_SECTION:waka-->
 
@@ -178,25 +181,26 @@ Go                       1 repo              █░░░░░░░░░░�
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
 </div>
 </td></tr></table>  
-<br/>  
-<picture>
-  <img src="./metrics.plugin.contributors.contributions.svg"/>
-</picture>
 
-## Github Stats  
-<picture>
-  <img src="./metrics.plugin.stars.svg"/>
-</picture>
-<picture>
-  <img src="./metrics.plugin.topics.icons.svg"/>
-</picture>
+## Github Stats 
+<table>
+  <tr>
+    <td valign="top"><img src="./metrics.plugin.stars.svg"></td>
+    <td valign="top"><img src="./metrics.plugin.contributors.contributions.svg"></td>
+  </tr>
+ </table>
 
-![proanimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
-![proanimer's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=drowning-in-codes)
+![proanimer's GitHub stats](https://github-readme-stats-olive-three-31.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+![proanimer's streak stats](https://github-readme-streak-stats-chi-sooty.vercel.app/?user=drowning-in-codes)
 <br/>
-![proanimer's top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true)
-![proanimer's profile-trophy](https://github-profile-trophy.vercel.app/?username=drowning-in-codes)
-<br/>  
+<p align="left">
+  <img src="https://github-readme-stats-olive-three-31.vercel.app/api/top-langs/?username=drowning-in-codes&hide_border=true" />
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drowning-in-codes&theme=default"/>
+</p>
+
+![proanimer's profile-trophy](https://git-profile-trophy-tawny.vercel.app/?username=drowning-in-codes)
+
 [![proanimer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drowning-in-codes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/> 
 
