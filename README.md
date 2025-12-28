@@ -54,7 +54,7 @@
 <picture><img src="./ayanami.png"/></picture>
 <picture><img src="./metrics.plugin.anilist.svg"/></picture>
 
-[![proanimer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proanimer&range=last_7_days)](https://github.com/drowning-in-codes/drowning-in-codes)
+[![proanimer's wakatime stats](https://github-readme-stats-olive-three-31.vercel.app/api/wakatime?username=proanimer&range=last_7_days)](https://github.com/drowning-in-codes/drowning-in-codes)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
@@ -139,7 +139,7 @@ Go                       1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
-![habits](././metrics.plugin.habits.facts.svg)
+![habits](./metrics.plugin.habits.facts.svg)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
