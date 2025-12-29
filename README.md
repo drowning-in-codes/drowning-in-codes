@@ -50,11 +50,11 @@
     
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [k8s学习](https://www.sekyoro.top/2025/12/07/k8s%E5%AD%A6%E4%B9%A0/)
+- [Java进阶知识](https://www.sekyoro.top/2025/12/06/Java%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86/)
 - [操作系统与计算机网络经典](https://www.sekyoro.top/2025/11/10/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%BB%8F%E5%85%B8/)
 - [构建AI应用程序的框架以及解决方案](https://www.sekyoro.top/2025/10/04/%E6%9E%84%E5%BB%BAAI%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%A1%86%E6%9E%B6%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
 - [MySQL与Redis经典面经](https://www.sekyoro.top/2025/09/02/MySQL%E4%B8%8ERedis%E7%BB%8F%E5%85%B8%E9%9D%A2%E7%BB%8F/)
-- [刷题总结篇](https://www.sekyoro.top/2025/08/31/%E5%88%B7%E9%A2%98%E6%80%BB%E7%BB%93%E7%AF%87/)
-- [个人知识库应用整合](https://www.sekyoro.top/2025/08/26/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E5%BA%93%E5%BA%94%E7%94%A8%E6%95%B4%E5%90%88/)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="./github-metrics.svg"/><img src="./metrics.plugin.anilist.svg"/>
