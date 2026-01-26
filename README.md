@@ -50,11 +50,11 @@
     
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [智力题总结](https://www.sekyoro.top/2026/01/16/%E6%99%BA%E5%8A%9B%E9%A2%98%E6%80%BB%E7%BB%93/)
+- [RAG系统设计](https://www.sekyoro.top/2026/01/12/RAG%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/)
+- [从零开始大数据](https://www.sekyoro.top/2026/01/10/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%A4%A7%E6%95%B0%E6%8D%AE/)
 - [资源调度与项目管理平台](https://www.sekyoro.top/2025/12/31/%E8%B5%84%E6%BA%90%E8%B0%83%E5%BA%A6%E4%B8%8E%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/)
 - [凤凰架构学习](https://www.sekyoro.top/2025/12/30/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84%E5%AD%A6%E4%B9%A0/)
-- [博客网站构建指南](https://www.sekyoro.top/2025/12/30/%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99%E6%9E%84%E5%BB%BA%E6%8C%87%E5%8D%97/)
-- [k8s学习](https://www.sekyoro.top/2025/12/07/k8s%E5%AD%A6%E4%B9%A0/)
-- [Java进阶知识](https://www.sekyoro.top/2025/12/06/Java%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86/)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="./github-metrics.svg"/><img src="./metrics.plugin.anilist.svg"/>
