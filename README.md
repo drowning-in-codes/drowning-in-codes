@@ -63,7 +63,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C771%20hrs%2046%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -104,21 +106,18 @@ Sunday                   246 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-CSS                      4 hrs 21 mins       ███████████████░░░░░░░░░░   60.90 % 
-HTML                     1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Java                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+YAML                     13 mins             ██████████████░░░░░░░░░░░   57.87 % 
+Markdown                 7 mins              ████████░░░░░░░░░░░░░░░░░   32.84 % 
+Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 
 🔥 Editors: 
-Trae                     6 hrs 35 mins       ███████████████████████░░   91.98 % 
-VS Code                  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Trae                     23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-paicoding                7 hrs 9 mins        █████████████████████████   100.00 % 
+paicoding                23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +137,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 11:28:27 UTC
+ Last Updated on 02/02/2026 11:40:35 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
