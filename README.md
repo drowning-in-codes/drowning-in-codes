@@ -106,18 +106,16 @@ Sunday                   246 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     13 mins             ██████████████░░░░░░░░░░░   57.87 % 
-Markdown                 7 mins              ████████░░░░░░░░░░░░░░░░░   32.84 % 
-Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-paicoding                23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -137,7 +135,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 11:40:35 UTC
+ Last Updated on 03/02/2026 11:40:19 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
