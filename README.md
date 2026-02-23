@@ -63,9 +63,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C781%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C783%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,16 +106,24 @@ Sunday                   249 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     23 mins             ████████░░░░░░░░░░░░░░░░░   30.28 % 
+C++                      21 mins             ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Markdown                 20 mins             ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+Java                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+PowerShell               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  58 mins             ███████████████████░░░░░░   76.21 % 
+Cursor                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Notepad++                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+leetcode                 58 mins             ███████████████████░░░░░░   76.21 % 
+Unknown Project          16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+mini-gl                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -135,7 +143,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 11:28:22 UTC
+ Last Updated on 23/02/2026 11:44:10 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
