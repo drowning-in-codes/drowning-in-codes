@@ -50,11 +50,11 @@
     
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [智力题总结](https://www.sekyoro.top/2026/01/16/%E6%99%BA%E5%8A%9B%E9%A2%98%E6%80%BB%E7%BB%93/)
-- [RAG系统设计](https://www.sekyoro.top/2026/01/12/RAG%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/)
-- [从零开始大数据](https://www.sekyoro.top/2026/01/10/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%A4%A7%E6%95%B0%E6%8D%AE/)
-- [资源调度与项目管理平台](https://www.sekyoro.top/2025/12/31/%E8%B5%84%E6%BA%90%E8%B0%83%E5%BA%A6%E4%B8%8E%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/)
-- [凤凰架构学习](https://www.sekyoro.top/2025/12/30/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84%E5%AD%A6%E4%B9%A0/)
+- [搭建Agent+MCP+SKILL进行成熟Vibe Coding](https://www.sekyoro.top/2026/02/22/%E6%90%AD%E5%BB%BAAgent-MCP-SKILL%E8%BF%9B%E8%A1%8C%E6%88%90%E7%86%9FVibe-Coding/)
+- [分布式IM聊天系统学习](https://www.sekyoro.top/2026/02/13/%E5%88%86%E5%B8%83%E5%BC%8FIM%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0/)
+- [AI工具尝鲜:从&quot;模态爆发&quot;到&quot;生态耕耘&quot;](https://www.sekyoro.top/2026/02/11/AI%E5%B7%A5%E5%85%B7%E5%B0%9D%E9%B2%9C/)
+- [Java、JVM、并发进阶](https://www.sekyoro.top/2026/02/02/Java%E3%80%81JVM%E3%80%81%E5%B9%B6%E5%8F%91%E8%BF%9B%E9%98%B6/)
+- [经典算法题解析](https://www.sekyoro.top/2026/01/27/%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3%E6%9E%90/)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="./github-metrics.svg"/><img src="./metrics.plugin.anilist.svg"/>
