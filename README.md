@@ -63,7 +63,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C792%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C793%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -71,11 +71,11 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2026
+> 🏆 43 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -106,16 +106,16 @@ Sunday                   255 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      46 mins             █████████████████████████   100.00 % 
+C++                      1 hr 8 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode                 46 mins             █████████████████████████   100.00 % 
+leetcode                 1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -135,7 +135,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2026 11:51:21 UTC
+ Last Updated on 25/03/2026 11:47:39 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
