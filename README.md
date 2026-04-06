@@ -50,11 +50,11 @@
     
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [项目场景扩展&lpar;二&rpar;](https://www.sekyoro.top/2026/04/02/%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E6%89%A9%E5%B1%95-%E4%BA%8C/)
+- [OpenClaw学习与实战](https://www.sekyoro.top/2026/03/24/OpenClaw%E5%AD%A6%E4%B9%A0/)
+- [项目场景扩展&lpar;一&rpar;](https://www.sekyoro.top/2026/03/20/%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E6%89%A9%E5%B1%95/)
 - [搭建Agent+MCP+SKILL进行成熟Vibe Coding](https://www.sekyoro.top/2026/02/22/%E6%90%AD%E5%BB%BAAgent-MCP-SKILL%E8%BF%9B%E8%A1%8C%E6%88%90%E7%86%9FVibe-Coding/)
 - [分布式IM聊天系统学习](https://www.sekyoro.top/2026/02/13/%E5%88%86%E5%B8%83%E5%BC%8FIM%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0/)
-- [AI工具尝鲜:从&quot;模态爆发&quot;到&quot;生态耕耘&quot;](https://www.sekyoro.top/2026/02/11/AI%E5%B7%A5%E5%85%B7%E5%B0%9D%E9%B2%9C/)
-- [Java、JVM、并发进阶](https://www.sekyoro.top/2026/02/02/Java%E3%80%81JVM%E3%80%81%E5%B9%B6%E5%8F%91%E8%BF%9B%E9%98%B6/)
-- [经典算法题解析](https://www.sekyoro.top/2026/01/27/%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3%E6%9E%90/)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="./github-metrics.svg"/><img src="./metrics.plugin.anilist.svg"/>
