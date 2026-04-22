@@ -35,7 +35,7 @@ jobs:
           base: ""
           plugin_calendar: yes
       - name: Mildly interesting facts
-        uses: gh-metrics/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
