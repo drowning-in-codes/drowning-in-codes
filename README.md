@@ -198,6 +198,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
   </tr>
  </table>
 
+![isocalendar](./metrics.plugin.isocalendar.svg)
 ![proanimer's GitHub stats](https://github-readme-stats-olive-three-31.vercel.app/api?username=drowning-in-codes&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 ![proanimer's streak stats](https://github-readme-streak-stats-chi-sooty.vercel.app/?user=drowning-in-codes)
 <br/>
