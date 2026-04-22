@@ -27,6 +27,13 @@ jobs:
           repo: metrics
           plugin_contributors: yes
           plugin_contributors_contributions: yes
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
       - name: Current year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -35,7 +42,7 @@ jobs:
           base: ""
           plugin_calendar: yes
       - name: Mildly interesting facts
-        uses: gh-metrics/metrics@master
+        uses: dkhokhlov/metrics@master
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -70,7 +77,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 12
           plugin_topics_mode: icons
        
 
