@@ -65,7 +65,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C817%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,20 +106,16 @@ Sunday                   271 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   43 mins             ██████████████████░░░░░░░   72.93 % 
-JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wx_auto_push             59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -139,7 +135,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2026 12:29:43 UTC
+ Last Updated on 07/05/2026 12:31:04 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
