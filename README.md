@@ -50,11 +50,11 @@
     
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [搭建Agent+MCP+SKILL进行成熟Vibe Coding](https://www.sekyoro.top/2026/02/22/%E6%90%AD%E5%BB%BAAgent-MCP-SKILL%E8%BF%9B%E8%A1%8C%E6%88%90%E7%86%9FVibe-Coding/)
-- [分布式IM聊天系统学习](https://www.sekyoro.top/2026/02/13/%E5%88%86%E5%B8%83%E5%BC%8FIM%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0/)
-- [AI工具尝鲜:从&quot;模态爆发&quot;到&quot;生态耕耘&quot;](https://www.sekyoro.top/2026/02/11/AI%E5%B7%A5%E5%85%B7%E5%B0%9D%E9%B2%9C/)
-- [Java、JVM、并发进阶](https://www.sekyoro.top/2026/02/02/Java%E3%80%81JVM%E3%80%81%E5%B9%B6%E5%8F%91%E8%BF%9B%E9%98%B6/)
-- [经典算法题解析](https://www.sekyoro.top/2026/01/27/%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3%E6%9E%90/)
+- [Claude Code 实战](https://www.sekyoro.top/2026/05/27/Claude-Code-%E5%AE%9E%E6%88%98/)
+- [网络中有趣的协议](https://www.sekyoro.top/2026/05/27/%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%8F%E8%AE%AE/)
+- [Beyond AI Coding:Harness工程与更好地AI开发](https://www.sekyoro.top/2026/05/24/Beyond-AI-Coding-Harness%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%9B%B4%E5%A5%BD%E5%9C%B0AI%E5%BC%80%E5%8F%91/)
+- [C++重点知识回顾](https://www.sekyoro.top/2026/04/16/C-%E9%87%8D%E7%82%B9%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/)
+- [项目场景扩展&lpar;二&rpar;](https://www.sekyoro.top/2026/04/02/%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E6%89%A9%E5%B1%95-%E4%BA%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="./github-metrics.svg"/><img src="./metrics.plugin.anilist.svg"/>
