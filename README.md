@@ -50,11 +50,11 @@
     
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [从自动化测试到游戏脚本:使用Maafw开发](https://www.sekyoro.top/2026/06/04/%E4%BB%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E5%88%B0%E6%B8%B8%E6%88%8F%E8%84%9A%E6%9C%AC-%E4%BD%BF%E7%94%A8Maafw%E5%BC%80%E5%8F%91/)
 - [Claude Code 实战](https://www.sekyoro.top/2026/05/27/Claude-Code-%E5%AE%9E%E6%88%98/)
 - [网络中有趣的协议](https://www.sekyoro.top/2026/05/27/%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%8F%E8%AE%AE/)
 - [Beyond AI Coding:Harness工程与更好地AI开发](https://www.sekyoro.top/2026/05/24/Beyond-AI-Coding-Harness%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%9B%B4%E5%A5%BD%E5%9C%B0AI%E5%BC%80%E5%8F%91/)
 - [C++重点知识回顾](https://www.sekyoro.top/2026/04/16/C-%E9%87%8D%E7%82%B9%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/)
-- [项目场景扩展&lpar;二&rpar;](https://www.sekyoro.top/2026/04/02/%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E6%89%A9%E5%B1%95-%E4%BA%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="./github-metrics.svg"/><img src="./metrics.plugin.anilist.svg"/>
