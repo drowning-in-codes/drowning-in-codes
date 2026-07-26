@@ -63,9 +63,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C889%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C889%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -82,21 +82,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-🌆 Daytime                264 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-🌃 Evening                1014 commits        ██████████████████░░░░░░░   71.56 % 
-🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+🌞 Morning                81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+🌆 Daytime                264 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+🌃 Evening                1022 commits        ██████████████████░░░░░░░   70.48 % 
+🌙 Night                  83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Wednesday                238 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Thursday                 233 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Sunday                   276 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Monday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Wednesday                246 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Saturday                 212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Sunday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 ```
 
 
@@ -106,22 +106,20 @@ Sunday                   276 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     50 mins             ████████████░░░░░░░░░░░░░   49.72 % 
-Python                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-YAML                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Markdown                 16 mins             ████████████████░░░░░░░░░   62.52 % 
+YAML                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Python                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 
 🔥 Editors: 
-VS Code                  1 hr 41 mins        █████████████████████████   99.85 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+VS Code                  25 mins             ███████████████████████░░   93.63 % 
+Notepad++                1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🐱‍💻 Projects: 
-MaaNTE                   1 hr 17 mins        ███████████████████░░░░░░   76.69 % 
-VibeProjects             23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+VibeProjects             25 mins             ███████████████████████░░   93.63 % 
+next                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -141,7 +139,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 12:01:32 UTC
+ Last Updated on 26/07/2026 12:00:53 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
