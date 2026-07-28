@@ -63,7 +63,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C889%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C858%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -82,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-🌆 Daytime                264 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-🌃 Evening                1022 commits        ██████████████████░░░░░░░   70.48 % 
-🌙 Night                  83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+🌞 Morning                81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+🌆 Daytime                264 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+🌃 Evening                1022 commits        ██████████████████░░░░░░░   70.43 % 
+🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Wednesday                246 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Saturday                 212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Sunday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Wednesday                246 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Thursday                 241 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Saturday                 212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Sunday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 ```
 
 
@@ -122,6 +124,28 @@ next                     1 min               ██░░░░░░░░░�
 Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 mins (93.63%)
+
+✍️ 278 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 20,465,255 Input Tokens, 10,078 Output Tokens
+
+💵 $61.55 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 8 AI Prompts
+
+Deepseek                 287 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -139,7 +163,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 13:38:27 UTC
+ Last Updated on 28/07/2026 12:53:56 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
