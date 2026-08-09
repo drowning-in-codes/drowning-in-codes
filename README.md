@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-🌆 Daytime                136 commits         ██████████░░░░░░░░░░░░░░░   39.19 % 
-🌃 Evening                139 commits         ██████████░░░░░░░░░░░░░░░   40.06 % 
-🌙 Night                  46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+🌞 Morning                82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+🌆 Daytime                265 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+🌃 Evening                1022 commits        ██████████████████░░░░░░░   70.39 % 
+🌙 Night                  83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Wednesday                94 commits          ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Friday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Saturday                 58 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Sunday                   85 commits          ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Monday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Wednesday                246 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Saturday                 214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Sunday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
 ```
 
 
@@ -108,45 +108,22 @@ Sunday                   85 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     25 mins             █████████░░░░░░░░░░░░░░░░   36.99 % 
-Python                   16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-TOML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Notepad++                34 mins             ████████████░░░░░░░░░░░░░   49.79 % 
-VS Code                  31 mins             ███████████░░░░░░░░░░░░░░   45.78 % 
-Claude Code              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-VibeProjects             35 mins             █████████████░░░░░░░░░░░░   50.21 % 
-Unknown Project          34 mins             ████████████░░░░░░░░░░░░░   49.79 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (14.1%)
-
-✍️ 1 lines written by AI, 55 lines written by hand (1.79% AI-written)
-
-🔤 6,815,414 Input Tokens, 2,770 Output Tokens
-
-💵 $11.06 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Deepseek                 1 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.79% of written lines came from AI
-📝 Concise Prompter — average 116 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.49% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +143,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 11:26:10 UTC
+ Last Updated on 09/08/2026 11:26:08 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
