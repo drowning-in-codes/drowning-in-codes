@@ -71,7 +71,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 1.2 MB Used in GitHub's Storage 
+> 📦 1.1 MB Used in GitHub's Storage 
  > 
 > 🏆 168 Contributions in the Year 2026
  > 
@@ -108,43 +108,43 @@ Sunday                   276 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 mins             ████████░░░░░░░░░░░░░░░░░   32.55 % 
-YAML                     17 mins             ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Markdown                 11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Python                   14 mins             ████████░░░░░░░░░░░░░░░░░   30.90 % 
+Markdown                 11 mins             ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+YAML                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   99.11 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+VS Code                  45 mins             █████████████████████████   98.91 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🐱‍💻 Projects: 
-VibeProjects             56 mins             █████████████████████████   100.00 % 
+VibeProjects             45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (98.43%)
+⏱ AI Coding Time: 45 mins (99.7%)
 
-✍️ 408 lines written by AI, 16 lines written by hand (96.23% AI-written)
+✍️ 312 lines written by AI, 16 lines written by hand (95.12% AI-written)
 
-🔤 317,315 Input Tokens, 69,037 Output Tokens
+🔤 153,905 Input Tokens, 66,512 Output Tokens
 
-💵 $34.09 Estimated AI Cost This Week
+💵 $31.66 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 14 AI Prompts
+🧠 1 AI Sessions, 11 AI Prompts
 
-Deepseek                 443 lines           █████████████████████████   100.00 % 
+Deepseek                 347 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.23% of written lines came from AI
-📄 Detailed Prompter — average 938 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.49% of changed lines were hand-edited
+🤖 AI-Driven — 95.12% of written lines came from AI
+📄 Detailed Prompter — average 1,191 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 4.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +164,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 14:41:16 UTC
+ Last Updated on 05/09/2026 13:40:27 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
