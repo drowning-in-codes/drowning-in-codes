@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-🌆 Daytime                141 commits         ██████████░░░░░░░░░░░░░░░   39.50 % 
-🌃 Evening                140 commits         ██████████░░░░░░░░░░░░░░░   39.22 % 
-🌙 Night                  50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌞 Morning                82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+🌆 Daytime                270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+🌃 Evening                1032 commits        █████████████████░░░░░░░░   69.59 % 
+🌙 Night                  99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Wednesday                94 commits          ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Friday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Sunday                   85 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Monday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Wednesday                255 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Friday                   147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Saturday                 228 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Sunday                   286 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
 ```
 
 
@@ -163,7 +163,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 16:18:08 UTC
+ Last Updated on 08/09/2026 14:55:27 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
