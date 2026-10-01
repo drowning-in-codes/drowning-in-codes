@@ -73,11 +73,11 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 195 Contributions in the Year 2026
+> 🏆 194 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -85,20 +85,20 @@
 
 ```text
 🌞 Morning                82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-🌆 Daytime                270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-🌃 Evening                1038 commits        █████████████████░░░░░░░░   69.29 % 
-🌙 Night                  108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+🌆 Daytime                270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+🌃 Evening                1038 commits        █████████████████░░░░░░░░   69.25 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Wednesday                261 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Wednesday                261 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Thursday                 241 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 Friday                   147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Saturday                 234 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Sunday                   289 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Saturday                 234 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Sunday                   289 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 ```
 
 
@@ -170,7 +170,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 16:40:05 UTC
+ Last Updated on 01/10/2026 17:17:59 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
