@@ -65,7 +65,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C867%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -108,48 +108,51 @@ Sunday                   289 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   36.67 % 
-JavaScript               1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   32.60 % 
-JSON                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown                 2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.22 % 
+JavaScript               1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.42 % 
+JSON                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       ██████████████████████░░░   86.85 % 
-Notepad++                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Claude Code              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+VS Code                  4 hrs 54 mins       ████████████████████░░░░░   81.05 % 
+Notepad++                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Codex Vscode             24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Claude Code              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🐱‍💻 Projects: 
-hexo-generator-index-top 2 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.68 % 
-Meting-API               2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.97 % 
-Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-MaaNTE                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-MetingJS                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+hexo-generator-index-top 2 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.50 % 
+Meting-API               2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.44 % 
+Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+ni-h                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+MaaNTE                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 💻 Operating System: 
-Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 39 mins       ███████████████████████░░   93.33 % 
+Mac                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 33 mins (80.49%)
+⏱ AI Coding Time: 4 hrs 57 mins (81.79%)
 
 ✍️ 1,994 lines written by AI, 7 lines written by hand (99.65% AI-written)
 
-🔤 626,234 Input Tokens, 437,693 Output Tokens
+🔤 662,880 Input Tokens, 438,982 Output Tokens
 
-💵 $122.67 Estimated AI Cost This Week
+💵 $122.68 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 78 AI Prompts
+🧠 7 AI Sessions, 86 AI Prompts
 
 Deepseek                 2,053 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.65% of written lines came from AI
-📚 Verbose Prompter — average 2,336 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📚 Verbose Prompter — average 2,161 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
@@ -170,7 +173,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 17:17:59 UTC
+ Last Updated on 02/10/2026 16:30:59 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
