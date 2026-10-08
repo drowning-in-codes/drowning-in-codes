@@ -63,9 +63,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C870%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C877%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -108,51 +108,54 @@ Sunday                   322 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-Python                   48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-JavaScript               47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-C++                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Markdown                 2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+JavaScript               2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Python                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Bash                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       ██████████████░░░░░░░░░░░   55.46 % 
-Copilot CLI              58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-Codex Vscode             37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Notepad++                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+VS Code                  3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.38 % 
+Copilot CLI              2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+Codex Vscode             2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Copilot                  1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Notepad++                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🐱‍💻 Projects: 
-Meting-API               1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-wx_auto_push             53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-support.typora.io        31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-ni-h                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-demo_projects            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+VibeProjects             6 hrs 14 mins       ███████████████░░░░░░░░░░   58.53 % 
+Meting-API               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+wx_auto_push             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+support.typora.io        31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+文章写作                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 💻 Operating System: 
-Windows                  3 hrs 20 mins       ████████████████████░░░░░   80.64 % 
-Mac                      48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Windows                  9 hrs 50 mins       ███████████████████████░░   92.45 % 
+Mac                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 3 mins (73.61%)
+⏱ AI Coding Time: 8 hrs 34 mins (80.49%)
 
-✍️ 46 lines written by AI, 228 lines written by hand (16.79% AI-written)
+✍️ 3,170 lines written by AI, 237 lines written by hand (93.04% AI-written)
 
-🔤 272,308 Input Tokens, 76,531 Output Tokens
+🔤 1,536,816 Input Tokens, 174,951 Output Tokens
 
-💵 $24.01 Estimated AI Cost This Week
+💵 $26.61 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 47 AI Prompts
+🧠 22 AI Sessions, 124 AI Prompts
 
-Deepseek                 88 lines            ████████████████████████░   96.70 % 
-GPT                      3 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+GPT                      3,175 lines         ████████████████████████░   97.30 % 
+Deepseek                 88 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.79% of written lines came from AI
-📄 Detailed Prompter — average 529 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 83.33% of changed lines were hand-edited
+🤖 AI-Driven — 93.04% of written lines came from AI
+📄 Detailed Prompter — average 576 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 7.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +175,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 17:42:59 UTC
+ Last Updated on 08/10/2026 17:46:06 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
