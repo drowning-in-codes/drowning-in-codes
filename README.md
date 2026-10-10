@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-🌆 Daytime                271 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-🌃 Evening                1039 commits        █████████████████░░░░░░░░   69.22 % 
-🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+🌞 Morning                110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌆 Daytime                390 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+🌃 Evening                1151 commits        ████████████████░░░░░░░░░   64.19 % 
+🌙 Night                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Wednesday                262 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Thursday                 241 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Friday                   147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Saturday                 234 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Sunday                   290 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Monday                   198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Tuesday                  203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Thursday                 279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Sunday                   322 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
 ```
 
 
@@ -108,53 +108,53 @@ Sunday                   290 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
-JavaScript               2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-Python                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Markdown                 3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
+JavaScript               2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+Python                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Bash                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-Copilot CLI              3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-VS Code                  2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Codex Vscode             1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Copilot                  1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Claude Code              56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Copilot CLI              3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.75 % 
+VS Code                  2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Codex Vscode             1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Copilot                  1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Claude Code              56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 🐱‍💻 Projects: 
-VibeProjects             6 hrs 59 mins       ████████████████░░░░░░░░░   63.08 % 
-Meting-API               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-wx_auto_push             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-support.typora.io        31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-文章写作                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+VibeProjects             6 hrs 59 mins       ████████████████░░░░░░░░░   64.80 % 
+Meting-API               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+wx_auto_push             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+support.typora.io        31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+文章写作                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 💻 Operating System: 
-Windows                  10 hrs 40 mins      ████████████████████████░   96.31 % 
-Mac                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Windows                  10 hrs 22 mins      ████████████████████████░   96.21 % 
+Mac                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 59 mins (81.17%)
+⏱ AI Coding Time: 8 hrs 54 mins (82.54%)
 
-✍️ 3,469 lines written by AI, 237 lines written by hand (93.6% AI-written)
+✍️ 3,469 lines written by AI, 29 lines written by hand (99.17% AI-written)
 
 🔤 2,352,440 Input Tokens, 268,916 Output Tokens
 
 💵 $25.41 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 122 AI Prompts
+🧠 22 AI Sessions, 118 AI Prompts
 
 GPT                      3,474 lines         █████████████████████████   98.78 % 
 DeepSeek                 43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.6% of written lines came from AI
-📄 Detailed Prompter — average 596 characters per prompt
+🤖 AI-Driven — 99.17% of written lines came from AI
+📄 Detailed Prompter — average 615 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 6.56% of changed lines were hand-edited
+🚀 High AI Trust — 1.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +174,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 17:20:46 UTC
+ Last Updated on 10/10/2026 16:07:55 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
