@@ -67,7 +67,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%209%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-🌆 Daytime                301 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-🌃 Evening                1025 commits        █████████████████░░░░░░░░   67.75 % 
-🌙 Night                  102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+🌞 Morning                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+🌆 Daytime                420 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌃 Evening                1140 commits        ████████████████░░░░░░░░░   62.71 % 
+🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Tuesday                  165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Thursday                 245 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Friday                   147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Saturday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Sunday                   277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Tuesday                  206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Wednesday                273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Thursday                 291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Saturday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Sunday                   311 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 ```
 
 
@@ -143,7 +143,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 14:17:47 UTC
+ Last Updated on 19/10/2026 17:21:20 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
