@@ -63,17 +63,13 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C877%20hrs%2056%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%209%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 230 Contributions in the Year 2026
+> 🏆 231 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,21 +80,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-🌆 Daytime                420 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-🌃 Evening                1140 commits        ████████████████░░░░░░░░░   62.64 % 
-🌙 Night                  147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+🌞 Morning                115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+🌆 Daytime                431 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+🌃 Evening                1167 commits        ████████████████░░░░░░░░░   62.71 % 
+🌙 Night                  148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Tuesday                  206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Wednesday                273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Thursday                 293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Saturday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Sunday                   311 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Tuesday                  208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Wednesday                295 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Thursday                 304 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Friday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Saturday                 290 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Sunday                   311 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 ```
 
 
@@ -143,7 +139,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 17:02:13 UTC
+ Last Updated on 14/11/2026 16:51:40 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
