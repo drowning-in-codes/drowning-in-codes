@@ -63,7 +63,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ni-xing-psycc?theme=nord&font=Nova%20Cut&site=cn)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C878%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2035%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -104,22 +108,44 @@ Sunday                   311 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   24 mins             ████████████████████░░░░░   80.27 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+SSH Config               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 
 🔥 Editors: 
-Copilot                  0 secs              █████████████████████████   100.00 % 
+Claude Code              20 mins             █████████████████░░░░░░░░   68.69 % 
+VS Code                  7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Copilot CLI              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wx_auto_push             30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 26 mins (86.16%)
+
+✍️ 80 lines written by AI, 3 lines written by hand (96.39% AI-written)
+
+🔤 73,198 Input Tokens, 49,926 Output Tokens
+
+💵 $7.80 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 11 AI Prompts
+
+DeepSeek                 86 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.39% of written lines came from AI
+📄 Detailed Prompter — average 519 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -139,7 +165,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2026 16:51:40 UTC
+ Last Updated on 15/11/2026 17:33:47 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
