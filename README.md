@@ -73,7 +73,7 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 231 Contributions in the Year 2026
+> 🏆 242 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-🌆 Daytime                431 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-🌃 Evening                1167 commits        ████████████████░░░░░░░░░   62.71 % 
-🌙 Night                  148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+🌞 Morning                115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+🌆 Daytime                431 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+🌃 Evening                1190 commits        ███████████████░░░░░░░░░░   61.88 % 
+🌙 Night                  187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Tuesday                  208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Wednesday                295 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Thursday                 304 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Friday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Saturday                 290 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Sunday                   311 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Tuesday                  208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Wednesday                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Thursday                 304 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Friday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Saturday                 316 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Sunday                   324 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
 ```
 
 
@@ -151,11 +151,11 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   13 repos            █████████░░░░░░░░░░░░░░░░   35.14 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
@@ -165,7 +165,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 19:33:57 UTC
+ Last Updated on 18/11/2026 19:15:50 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
