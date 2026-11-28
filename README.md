@@ -67,7 +67,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-🌆 Daytime                312 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-🌃 Evening                1070 commits        █████████████████░░░░░░░░   66.38 % 
-🌙 Night                  143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+🌞 Morning                115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+🌆 Daytime                431 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+🌃 Evening                1185 commits        ████████████████░░░░░░░░░   62.07 % 
+🌙 Night                  178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Wednesday                281 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Thursday                 266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Saturday                 269 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Sunday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Tuesday                  208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Wednesday                312 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Thursday                 304 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Friday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Saturday                 311 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Sunday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
 ```
 
 
@@ -108,42 +108,22 @@ Sunday                   287 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 mins             █████████████████░░░░░░░░   69.09 % 
-Text                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             ████████████████████████░   94.75 % 
-Copilot CLI              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wx_auto_push             22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (34.99%)
-
-✍️ 0 lines written by AI, 75 lines written by hand (0.0% AI-written)
-
-🔤 189,619 Input Tokens, 0 Output Tokens
-
-💵 $3.13 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +143,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drowning-in-codes/drowning-in-codes/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 19:48:10 UTC
+ Last Updated on 28/11/2026 18:39:46 UTC
 <!--END_SECTION:waka-->
 
 ![Calender](./metrics.plugin.calendar.svg)
